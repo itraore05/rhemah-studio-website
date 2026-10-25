@@ -16,6 +16,18 @@
 
 ---
 
+## 🖼️ Aperçu
+
+![Page d'accueil](images/accueil.jpg)
+
+| Services | Réservation |
+|---|---|
+| ![Services](images/services.jpg) | ![Réservation](images/reservation.jpg) |
+
+| Version anglaise (About) |
+|---|
+| ![About, version anglaise](images/about-en.jpg) |
+
 ## 🎯 Le besoin du client
 
 Le fondateur, musicien professionnel, voulait un site qui :
